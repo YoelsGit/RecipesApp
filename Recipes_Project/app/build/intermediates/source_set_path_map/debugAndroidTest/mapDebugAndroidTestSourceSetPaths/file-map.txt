@@ -1,0 +1,5 @@
+com.example.recipes_project.test.app-core-1.6.1-0 C:\Users\Yoel\.gradle\caches\8.9\transforms\27da662dd40aebe43e283481801a7721\transformed\core-1.6.1\res
+com.example.recipes_project.test.app-androidTest-1 C:\Users\Yoel\AndroidStudioProjects\Recipes_Project\Recipes_Project\app\build\generated\res\resValues\androidTest\debug
+com.example.recipes_project.test.app-mergeDebugAndroidTestResources-2 C:\Users\Yoel\AndroidStudioProjects\Recipes_Project\Recipes_Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.recipes_project.test.app-mergeDebugAndroidTestResources-3 C:\Users\Yoel\AndroidStudioProjects\Recipes_Project\Recipes_Project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.recipes_project.test.app-debugAndroidTest-4 C:\Users\Yoel\AndroidStudioProjects\Recipes_Project\Recipes_Project\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

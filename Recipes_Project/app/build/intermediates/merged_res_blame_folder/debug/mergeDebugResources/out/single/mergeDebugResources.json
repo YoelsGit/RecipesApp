@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_generalrecipeimage.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\generalrecipeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_online_recipes_.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_online_recipes_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_menu_.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_menu_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcheer_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcheer_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_entry.jpg.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\entry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcher_rounnd.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcher_rounnd.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcheer.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcheer.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcher_rounnd.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_rounnd.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_background2.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\background2.png"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_cardview_recipe.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\cardview_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_background_gradient.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\background_gradient.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_login_.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_login_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_rounded_button_white.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\rounded_button_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_dialog_edit_recipe.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\dialog_edit_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_uploaded_images.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_uploaded_images.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_dialog_add_recipe.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\dialog_add_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcheer.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcheer.webp"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_sign__in_.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_sign__in_.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_activity_full_image.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\activity_full_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_fav.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_fav.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_fragment_my_list.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\fragment_my_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_item_uploaded_image.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\item_uploaded_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\drawable_dd.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\drawable\\dd.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xhdpi_ic_launcher_rounnd.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xhdpi\\ic_launcher_rounnd.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-hdpi_ic_launcheer.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-hdpi\\ic_launcheer.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_dialog_recipe_details.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\dialog_recipe_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_dialog_full_image.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\dialog_full_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-mdpi_ic_launcheer.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-mdpi\\ic_launcheer.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\navigation_navgraph.xml.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\navigation\\navgraph.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-debug-54:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.recipes_project.app-main-56:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-debug-54:\\mipmap-xxhdpi_ic_launcheer.webp.flat",
+        "source": "C:\\Users\\Yoel\\.gradle\\daemon\\8.9\\com.example.recipes_project.app-main-56:\\mipmap-xxhdpi\\ic_launcheer.webp"
+    }
+]

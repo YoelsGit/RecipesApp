@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/item_uploaded_image.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/item_uploaded_image.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_my_list.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_my_list.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_uploaded_images.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_uploaded_images.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_fav.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_fav.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_menu_.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_menu_.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/activity_full_image.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/activity_full_image.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/cardview_recipe.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/cardview_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/activity_main.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/dialog_add_recipe.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/dialog_add_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_online_recipes_.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_online_recipes_.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_sign__in_.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_sign__in_.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/dialog_edit_recipe.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/dialog_edit_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/dialog_full_image.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/dialog_full_image.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/dialog_recipe_details.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/dialog_recipe_details.xml"
+    },
+    {
+        "merged": "com.example.recipes_project.app-mergeDebugResources-53:/layout/fragment_login_.xml",
+        "source": "com.example.recipes_project.app-main-56:/layout/fragment_login_.xml"
+    }
+]
